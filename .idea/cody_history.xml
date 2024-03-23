@@ -441,6 +441,36 @@
           </enhancedContext>
           <internalId value="2c01125b-7fe4-4a03-b9df-e6912aa93093" />
         </chat>
+        <chat>
+          <enhancedContext>
+            <enhancedContext>
+              <remoteRepositories>
+                <list>
+                  <remoteRepository>
+                    <codebaseName value="github.com/mfl4/ums-s4-pw" />
+                    <remoteUrl value="github.com/mfl4/ums-s4-pw" />
+                  </remoteRepository>
+                </list>
+              </remoteRepositories>
+            </enhancedContext>
+          </enhancedContext>
+          <internalId value="f630cefe-71a0-48b6-b86d-50ab07cff449" />
+        </chat>
+        <chat>
+          <enhancedContext>
+            <enhancedContext>
+              <remoteRepositories>
+                <list>
+                  <remoteRepository>
+                    <codebaseName value="github.com/mfl4/ums-s4-pw" />
+                    <remoteUrl value="github.com/mfl4/ums-s4-pw" />
+                  </remoteRepository>
+                </list>
+              </remoteRepositories>
+            </enhancedContext>
+          </enhancedContext>
+          <internalId value="8771a7c0-3527-4528-af11-fc6bf15d19ae" />
+        </chat>
       </list>
     </chats>
     <defaultEnhancedContext>
